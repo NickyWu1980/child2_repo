@@ -5,3 +5,5 @@ add message child2 remote
 add message child2 local
 
 add message child2 remote2
+
+add message child2 local2

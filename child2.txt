@@ -3,3 +3,6 @@ child2 repo
 add message child2 remote
 
 add message child2 remote2
+
+add message child2 local
+
